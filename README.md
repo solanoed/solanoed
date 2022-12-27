@@ -41,7 +41,7 @@
 
 <br>
 
-[![Linkedin](https://img.shields.io/badge/-solanoed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/solanoed)
+[![Linkedin](https://img.shields.io/badge/-david-solano-arcon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-solano-arcon)
 [![Gmail](https://img.shields.io/badge/-solanoed-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=solanoed@uninorte.edu.co)
 [![Github](https://img.shields.io/badge/-solanoed-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/solanoed)
 <a href="https://instagram.com/nocra.designs"><img src="https://img.shields.io/badge/-@nocra designs-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
